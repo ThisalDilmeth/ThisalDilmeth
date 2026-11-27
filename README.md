@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I’m a Software Engineering undergraduate at Curtin University Colombo and Developer Lead at the Programming Club. I enjoy building useful software, learning how systems work, and turning ideas into projects, from web apps to cloud deployments.  
+
+I’m currently exploring frontend/backend development and DevOps. Feel free to check out my projects or connect!
 <!--
 **ThisalDilmeth/ThisalDilmeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,c,go,python,tailwind,react,nodejs,nextjs,net,postgres,prisma,firebase,git,docker,postman,figma" />
+</p>
+
+<hr>
