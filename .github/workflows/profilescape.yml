@@ -2,7 +2,7 @@ name: Profilescape
 
 # Renders your cards every day and keeps README.md up to date between the
 # <!-- profilescape:start --> and <!-- profilescape:end --> markers.
-# Edit this setup in the playground: https://chethandvg.github.io/profilescape/#playground?cards=3d%2Clanguages
+# Edit this setup in the playground: https://chethandvg.github.io/profilescape/#playground?cards=3d&theme=github
 
 on:
   schedule:
@@ -23,8 +23,8 @@ jobs:
     steps:
       - uses: chethandvg/profilescape@v1
         with:
-          cards: 3d,languages
+          cards: 3d
+          theme: github
           readme: README.md
           # Optional: add a PROFILESCAPE_TOKEN secret to include private contributions.
           token: ${{ secrets.README_TOKEN || github.token }}
-
