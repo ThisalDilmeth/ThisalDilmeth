@@ -1,6 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=40&pause=1000&color=FFFFFF&width=550&height=100&lines=Hi+there!+I'm+Thisal+%F0%9F%91%8B" alt="Typing SVG" /></a>
-<!-- <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&section=header&reversal=false&text=Hi+there%21+I%27m+Thisal&textBg=false&fontColor=0FBF3E&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=0FBF3E&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
--->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&color=gradient&section=header&reversal=false&text=Hi+there%21+I%27m+Thisal&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=FFFFFF&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
 
 I’m a Software Engineering undergraduate at Curtin University Colombo and Developer Lead at the Programming Club. I enjoy building useful software, learning how systems work, and turning ideas into projects, from web apps to cloud deployments.
 I’m currently exploring frontend/backend development and DevOps. Feel free to check out my projects or connect!
