@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- profilescape:start -->
+<!-- profilescape:end -->
 
 ## 🛠️ Languages and Tools
 
