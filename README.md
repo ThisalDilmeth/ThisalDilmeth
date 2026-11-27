@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🛠️ Languages and Tools
-
 <br>
 
 <p align="center">
