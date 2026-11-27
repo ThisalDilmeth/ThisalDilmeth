@@ -18,15 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- profilescape:start -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThisalDilmeth/ThisalDilmeth/profilescape-output/3d-dark.svg" />
-  <img src="https://raw.githubusercontent.com/ThisalDilmeth/ThisalDilmeth/profilescape-output/3d-light.svg" alt="3D contribution landscape: 357 contributions in the last year" width="100%" />
-</picture>
-
-<!-- profilescape:end -->
-
 ## 🛠️ Languages and Tools
 
 <br>
@@ -36,3 +27,12 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
+
+<!-- profilescape:start -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThisalDilmeth/ThisalDilmeth/profilescape-output/3d-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ThisalDilmeth/ThisalDilmeth/profilescape-output/3d-light.svg" alt="3D contribution landscape: 357 contributions in the last year" width="100%" />
+</picture>
+
+<!-- profilescape:end -->
