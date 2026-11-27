@@ -23,7 +23,7 @@ jobs:
     steps:
       - uses: chethandvg/profilescape@v1
         with:
-          cards: 3d
+          cards: socials,3d
           theme: github
           readme: README.md
           # Optional: add a PROFILESCAPE_TOKEN secret to include private contributions.
