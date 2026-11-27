@@ -2,7 +2,7 @@ name: Profilescape
 
 # Renders your cards every day and keeps README.md up to date between the
 # <!-- profilescape:start --> and <!-- profilescape:end --> markers.
-# Edit this setup in the playground: https://chethandvg.github.io/profilescape/#playground?cards=3d%2Csocials&theme=github&opts=%7B%223d%22%3A%7B%22hideTitle%22%3Atrue%2C%22insights%22%3Afalse%7D%7D
+# Edit this setup in the playground: https://chethandvg.github.io/profilescape/#playground?cards=3d%2Csocials&theme=github&opts=%7B%223d%22%3A%7B%22hideTitle%22%3Atrue%2C%22insights%22%3Afalse%7D%2C%22socials%22%3A%7B%22links%22%3A%7B%22linkedin%22%3A%22https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthisal-dilmeth%2F%22%2C%22email%22%3A%22thisal.fix%40gmail.com%22%7D%7D%7D
 
 on:
   schedule:
@@ -34,12 +34,12 @@ jobs:
                 "3d": {
                   "hideTitle": true,
                   "insights": false
-                }
-              },
-              "socials": {
+                },
+                "socials": {
                   "links": {
                     "linkedin": "https://www.linkedin.com/in/thisal-dilmeth/",
                     "email": "thisal.fix@gmail.com"
                   }
                 }
+              }
             }
