@@ -1,9 +1,37 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&color=gradient&section=header&reversal=false&text=Hi+there%21+I%27m+Thisal&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&stroke=FFFFFF&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
+<p align="center">
+  <img src="assets/autumn-pagoda-maples-1500x500.gif" alt="Redwood Forest Light, animated ASCII art" width="max">
+</p>
 
-I’m a Software Engineering undergraduate at Curtin University Colombo and Developer Lead at the Programming Club. I enjoy building useful software, learning how systems work, and turning ideas into projects, from web apps to cloud deployments.
-I’m currently exploring frontend/backend development and DevOps. Feel free to check out my projects or connect!
+[![Hi There!](https://ascii.rest/banner/Hi%20There!.svg?color=ecae6f&font=bold&shadow=rounded&fill=hash)](https://ascii.rest/banner/)
+
+
+<div align="left">
+  <table width="100%">
+    <tr>
+      <td width="45%" valign="center">
+          <p align="left">
+            <tt>
+            I'm a Software Engineering undergraduate at Curtin University Colombo and Developer Lead at the Programming Club. I enjoy building useful software, learning how systems work, and turning ideas into projects, from web apps to cloud deployments.
+            </tt>
+          </p>
+          <p align="left">
+            <tt>
+            I’m currently exploring frontend/backend development and DevOps. Feel free to check out my projects or connect!
+            </tt>
+          </p>
+      </td>
+      <td width="10%" valign="center"></td>
+      <td width="45%" valign="">
+      <p align="center">
+        <img src="assets/spinning-torus-1080x1080-ezgif.com-remove-background.gif" alt="Redwood Forest Light, animated ASCII art" width="max">
+      </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!--
+[![Hi there! I'm Thisal](https://ascii.rest/banner/Hi%20there!%20I'm%20Thisal.svg?color=3fb950&speed=fast&font=bold&shadow=single&fill=hash&size=l)](https://ascii.rest/banner/)
 **ThisalDilmeth/ThisalDilmeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
