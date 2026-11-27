@@ -30,9 +30,18 @@ Here are some ideas to get you started:
 
 <!-- profilescape:start -->
 
+<p align="center">
+<a href="https://github.com/ThisalDilmeth">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThisalDilmeth/ThisalDilmeth/profilescape-output/social-github-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ThisalDilmeth/ThisalDilmeth/profilescape-output/social-github-light.svg" alt="GitHub" />
+</picture>
+</a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThisalDilmeth/ThisalDilmeth/profilescape-output/3d-dark.svg" />
-  <img src="https://raw.githubusercontent.com/ThisalDilmeth/ThisalDilmeth/profilescape-output/3d-light.svg" alt="3D contribution landscape: 357 contributions in the last year" width="100%" />
+  <img src="https://raw.githubusercontent.com/ThisalDilmeth/ThisalDilmeth/profilescape-output/3d-light.svg" alt="3D contribution landscape: 359 contributions in the last year" width="100%" />
 </picture>
 
 <!-- profilescape:end -->
