@@ -2,7 +2,7 @@ name: Profilescape
 
 # Renders your cards every day and keeps README.md up to date between the
 # <!-- profilescape:start --> and <!-- profilescape:end --> markers.
-# Edit this setup in the playground: https://chethandvg.github.io/profilescape/#playground?cards=3d&theme=github
+# Edit this setup in the playground: https://chethandvg.github.io/profilescape/#playground?cards=3d%2Csocials&theme=github&opts=%7B%223d%22%3A%7B%22hideTitle%22%3Atrue%2C%22insights%22%3Afalse%7D%7D
 
 on:
   schedule:
@@ -23,8 +23,23 @@ jobs:
     steps:
       - uses: chethandvg/profilescape@v1
         with:
-          cards: socials,3d
+          cards: 3d,socials
           theme: github
           readme: README.md
           # Optional: add a PROFILESCAPE_TOKEN secret to include private contributions.
-          token: ${{ secrets.README_TOKEN || github.token }}
+          token: ${{ secrets.PROFILESCAPE_TOKEN || github.token }}
+          config: |
+            {
+              "options": {
+                "3d": {
+                  "hideTitle": true,
+                  "insights": false
+                }
+              }
+              "socials": {
+                  "links": {
+                    "linkedin": "https://www.linkedin.com/in/thisal-dilmeth/",
+                    "email": "thisal.fix@gmail.com"
+                  }
+                }
+            }
