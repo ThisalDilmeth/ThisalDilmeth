@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThisalDilmeth/ThisalDilmeth/profilescape-output/grid-dark.svg" />
-  <img src="https://raw.githubusercontent.com/ThisalDilmeth/ThisalDilmeth/profilescape-output/grid-light.svg" alt="Contribution grid: 91 contributions in the last 12 months" width="100%" />
+  <img src="https://raw.githubusercontent.com/ThisalDilmeth/ThisalDilmeth/profilescape-output/grid-light.svg" alt="Contribution grid: 355 contributions in the last 12 months" width="100%" />
 </picture>
 
 <!-- profilescape:end -->
