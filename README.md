@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThisalDilmeth/ThisalDilmeth/profilescape-output/3d-dark.svg" />
-  <img src="https://raw.githubusercontent.com/ThisalDilmeth/ThisalDilmeth/profilescape-output/3d-light.svg" alt="3D contribution landscape: 363 contributions in the last year" width="100%" />
+  <img src="https://raw.githubusercontent.com/ThisalDilmeth/ThisalDilmeth/profilescape-output/3d-light.svg" alt="3D contribution landscape: 373 contributions in the last year" width="100%" />
 </picture>
 
 <p align="center">
